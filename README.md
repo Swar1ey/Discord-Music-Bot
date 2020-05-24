@@ -1,7 +1,7 @@
-![logo](https://repository-images.githubusercontent.com/260430808/da8b6300-8bb9-11ea-821a-cde5089d4c34)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fdiscordpartner&psig=AOvVaw00FRB2F1DQu5AF0zBHlwsv&ust=1590433762574000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi3sc6ZzekCFQAAAAAdAAAAABAD)
 
-# RobiBot (Discord Music Bot)
-> Robibot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+# Infinity (Discord Music Bot)
+> Infinity is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -12,7 +12,7 @@
 ## Installation
 
 ```
-git clone https://github.com/pepyta/robibot.git
+git clone https://github.com/Swar1ey/Discord-Music-Bot.git
 cd evobot
 npm install
 ```
@@ -76,9 +76,3 @@ MUSIC_CHANNEL_ID=12345678900000000
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`
 6. Submit a pull request
-
-## Credits
-
-[@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
-
-[@eritislami](https://github.com/eritislami) For the base project that is being used in this project [@eritislami/evobot](https://github.com/eritislami/evobot)

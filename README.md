@@ -1,4 +1,4 @@
-![logo](discordpartner.htm)
+![logo](https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Ftwitter.com%2Fdiscordpartner&amp;psig=AOvVaw00FRB2F1DQu5AF0zBHlwsv&amp;ust=1590433762574000&amp;source=images&amp;cd=vfe&amp;ved=0CAIQjRxqFwoTCIi3sc6ZzekCFQAAAAAdAAAAABAD.png)
 
 # Infinity (Discord Music Bot)
 > Infinity is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)

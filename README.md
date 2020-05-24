@@ -37,7 +37,7 @@ MUSIC_CHANNEL_ID=12345678900000000
    * [Google API Dashboard](console.cloud.google.com/apis/credentials) > Create credentials > API key > Copy
 3. **Setting up Glitch**:
    * Register to Glitch with Github
-   * Import my repository (`pepyta/robibot`)
+   * Import my repository (`Swar1ey/Discord-Music-Bot`)
    * Setup your `.env` file as described above
 4. **Making the page stay awake**:
    * Click on show button > In a New Window > Copy the url
@@ -46,7 +46,7 @@ MUSIC_CHANNEL_ID=12345678900000000
 
 ## Features & Commands
 
-> Note: The default prefix is '!'
+> Note: The default prefix is 'Set your Prefix that you want! in Config.js' 
 
 * 🎶 Play music from YouTube via url
   * `!play https://www.youtube.com/watch?v=GLvohMXgcBo`
